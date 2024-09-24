@@ -1,3 +1,6 @@
 kissa cat
 auto car
 lentokone airplane
+kuppi cup
+vesi water
+leijona lion

@@ -1,4 +1,3 @@
-import "./App.css";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
 import Home from "./Home";
@@ -7,6 +6,9 @@ import Search from "./Search";
 
 function App() {
   return (
+    // Lisätään navigointi sovellukseen.
+    // Tämä oli yksinkertaisin tapa mikä itselläni tuli mieleen routing toteutukselle ja minkä olin nähnyt aiemmin.
+    // Path ohjaa sivun osoitteeseen ja element määrittää sivulla renderöidyn komponentin.
     <BrowserRouter>
       <nav>
         <ul>
