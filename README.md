@@ -2,5 +2,5 @@
 
 Aja päähakemistossa npm install. Tehtävä 1 tiedostot löytyvät backend kansiosta.
 
-Backendin käynnistys: node .
-React käynnistys: npm run dev
+- Backendin käynnistys: node .
+- React käynnistys: npm run dev
